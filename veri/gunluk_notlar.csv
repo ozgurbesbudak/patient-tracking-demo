@@ -1,0 +1,16 @@
+tarih,saat,kategori,not
+2026-06-18,,belirti,Akşam saatlerinde ateş yükselmesi oldu; parasetamol (Parol) ve antibiyotik ile kontrol altına alındı (aile beyanı). Nötropenik hastada ateş önemli - tekrar/ek belirti olursa ekibe haber verilecek.
+2026-06-18,,genel,"Trombosit takviyesi PLT'nin çok düştüğü/sıçradığı günlerde, eritrosit (kırmızı kan) ise ara ara veriliyor (aile beyanı)."
+2026-06-19,,genel,"Akciğer HRCT (19.06) bir önceki 09.06 tetkikine göre stabil: sağ orta lob plevra tabanlı konsolidasyon benzer şekilde sürüyor, radyolog takip önerdi; yeni infiltrasyon/plevral efüzyon/kitle yok (rapor betimlemesi)."
+2026-06-23,,genel,"Tedavi sürüyor: Ambizon (antifungal, akciğer mantarı), kemoterapi ve akıllı ilaç (hedefe yönelik tedavi) uygulanmaya devam ediyor (aile beyanı). Akıllı ilacın adı/dozu henüz net değil."
+2026-06-29,,genel,"İlk kür 10 günlük düşük doz kemoterapi tamamlandı. Akıllı ilaç (hedefe yönelik tedavi) ve Ambizon (antifungal, akciğer mantarı) devam ediyor (aile beyanı). Akıllı ilacın adı/dozu hâlâ net değil."
+2026-06-30,,belirti,"Gece çok şiddetli kas kasılmaları (kramp) oldu; bir süre sonra oturunca geçti. Ertesi gün (01.07) doktora bildirildi; kalsiyum, potasyum vb. elektrolit serumları takıldı ve durum şu an için geçti (aile beyanı). Betimleyici korelasyon: 01.07 kanında potasyum 3.10 (ref altı), magnezyum 0.72, kalsiyum 8.70 düşük sınırda; replasman sonrası 02.07'de potasyum 4.20'ye döndü."
+2026-07-02,,genel,Akıllı ilaç (hedefe yönelik tedavi) bugün 17. gününde (aile beyanı) → 1. gün ≈ 2026-06-16. Ayrıca 01.07'de trombosit transfüzyonu yapıldı (ilac_tedavi.csv).
+2026-07-02,,genel,"Hastane protokol formu eklendi (ilac-programi-1.jpeg): protokol = CLAD+LDAC+VEN, 28 günde bir. AKILLI İLAÇ ARTIK NET: Venetoclax (VEN) 400mg PO, D1-21, kademeli (100→200→400mg). Kemoterapi = Cladribine 10mg IV D1-5 + Cytarabine düşük doz (LDAC) 2×20mg SC D1-10. Ayrıntı: raporlar/tedavi-protokolu/2026-06-15_CLAD-LDAC-VEN-protokolu.md"
+2026-07-04,,belirti,"Ani tansiyon düşüşleri ve solunum yetmezliği başladı; odaya monitör bağlandı, tansiyon özel ilaçlarla (destek/vazopresör) kontrol altına alınmaya çalışıldı. Aynı gün akıllı ilaç Venetoclax durduruldu (aile beyanı)."
+2026-07-07,,belirti,"Karın bölgesinde ciddi şişlik/sertleşme → NG (nazogastrik sonda) takıldı. Düşük PLT nedeniyle burundan ciddi kanamalar; solunum ve oksijen oranı (SpO2) ciddi azaldı; doktorlar aspirasyonla kanı temizledi; maske ile basınçlı oksijen desteği (~4-5 saat), sonra burundan boru (nazal kanül) ile oksijen ile SpO2 belli oranda tutuldu (aile beyanı)."
+2026-07-10,,genel,NG sonda çıkarıldı; ağızdan yemeğe yavaş yavaş başlandı (aile beyanı).
+2026-07-11,,genel,Gece ilk kez oksijen desteği olmadan uyudu (aile beyanı). Öncesinde o güne kadar arada oksijen desteğiyle devam edilmişti.
+2026-07-12,,belirti,Sol gözde kanlanma (kızarıklık / damar belirginleşmesi) fark edildi; trombosit düşük seyrettiği dönem (aile beyanı). Doktora soru olarak da eklendi (sorular.csv).
+2026-07-12,,belirti,İdrar sondası (peniste) takılı; penis başının kenarında ufak bir kızarıklık fark edildi (aile beyanı). Doktora soru olarak eklendi.
+2026-07-12,,belirti,Uyurken/uykuya dalarken halüsinasyon ve canlı rüya görme durumu var (aile beyanı). Doktora soru olarak eklendi.

@@ -1,0 +1,13 @@
+# Streamlit tema — hasta panosu (pano_app.py). Salt görsel; veriye dokunmaz.
+[theme]
+primaryColor = "#7c3aed"
+backgroundColor = "#0f1117"
+secondaryBackgroundColor = "#181b26"
+textColor = "#e7e9ee"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

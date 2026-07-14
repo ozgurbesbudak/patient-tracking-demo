@@ -1,0 +1,23 @@
+tarih,saat,tur,ad,doz,birim,yol,not
+2026-06-05,,transfuzyon,Eritrosit süspansiyonu,2,ünite,IV,kaynak: epikriz/2026-06-04 (belgeli)
+2026-06-05,,transfuzyon,Aferez trombosit süspansiyonu,1,ünite,IV,kaynak: epikriz/2026-06-04 (belgeli)
+2026-06-14,,transfuzyon,Trombosit (aferez),,,IV,PLT 21→51 sıçramasından + aile beyanından çıkarıldı; kesin tarih/ünite order'da
+2026-06-16,,transfuzyon,Trombosit (aferez),,,IV,PLT aynı gün 12→48 sıçramasından + aile beyanından çıkarıldı
+2026-06-16,,transfuzyon,Eritrosit süspansiyonu,,,IV,HGB 7.5→8.7 yükselişinden + aile beyanından çıkarıldı (ara ara kırmızı kan veriliyor)
+2026-06-19,,antibiyotik,Ambizon (lipozomal amfoterisin B),,,IV,"antifungal - akciğer mantarı tedavisi/takibi için veriliyor (aile beyanı); başlangıç tarihi yaklaşık"
+2026-06-22,,transfuzyon,Eritrosit süspansiyonu,,,IV,"HGB ertesi gün 7.0→8.7 sıçramasından çıkarıldı (aile beyanı: yükselişten hemen önce kırmızı kan verildi)"
+2026-06-24,,transfuzyon,Trombosit (aferez),,,IV,"PLT ertesi gün 5→19 sıçramasından çıkarıldı (aile beyanı: yükselişten hemen önce trombosit verildi)"
+2026-06-26,,transfuzyon,Eritrosit süspansiyonu,,,IV,"HGB ertesi gün 7.0→8.2 sıçramasından çıkarıldı (aile beyanı: yükselişten hemen önce kırmızı kan verildi)"
+2026-07-01,,transfuzyon,Trombosit süspansiyonu,,,IV,"aile beyanı (doğrudan bildirim): 01.07 babaya trombosit verildi; o gün PLT 9"
+2026-06-15,,kemoterapi,Cladribine (CLAD),10,mg,IV,"CLAD+LDAC+VEN protokolü (28 günde bir); 5 mg/m²×2m²; QD, D1-5 (≈06-15→06-19); kaynak: gelen-pdf/ilac-programi/ilac-programi-1.jpeg"
+2026-06-15,,kemoterapi,Cytarabine düşük doz (LDAC),20,mg,SC,"CLAD+LDAC+VEN protokolü; BID = 2×20mg/gün; D1-10 (≈06-15→06-24) = ''10 günlük kemoterapi''; kaynak: ilac-programi-1.jpeg"
+2026-06-16,,diger,Venetoclax (VEN) - hedefe yönelik (akıllı ilaç),400,mg,PO,"BCL-2 inhibitörü; QD, D1-21; kademeli: g1 100mg, g2 200mg, g3+ 400mg; aile: 02.07 itibarıyla 17. gün; kaynak: ilac-programi-1.jpeg"
+2026-07-01,,destek,Elektrolit replasmanı (kalsiyum + potasyum serumu),,,IV,"30.06 gecesi şiddetli kas krampları bildirilince doktor tarafından takıldı; kalsiyum/potasyum vb. O gün K 3.10, Mg 0.72, Ca 8.70 düşüktü (aile beyanı)"
+2026-07-04,,destek,Tansiyon destek ilacı (vazopresör / özel),,,IV,"04.07 ani tansiyon düşüşleri için monitörlü takiple başlandı; ilaç adı aile tarafından belirtilmedi (aile beyanı)"
+2026-07-04,,diger,Venetoclax (VEN) durduruldu,,,,"akıllı ilaç 04.07 (Cmt, kriz günü) durduruldu (aile beyanı); planlanan D21 ~06.07 idi, fiilen 04.07'de kesildi"
+2026-07-04,,transfuzyon,Trombosit süspansiyonu,1,ünite,IV,"aile beyanı (doğrudan bildirim)"
+2026-07-04,,transfuzyon,Eritrosit süspansiyonu (kırmızı kan),1,ünite,IV,"aile beyanı (doğrudan bildirim)"
+2026-07-07,,transfuzyon,Trombosit süspansiyonu,2,ünite,IV,"aile beyanı; burun kanaması/kriz günü"
+2026-07-07,,transfuzyon,Eritrosit süspansiyonu (kırmızı kan),1,ünite,IV,"aile beyanı; burun kanaması/kriz günü"
+2026-07-13,,transfuzyon,Trombosit süspansiyonu,1,ünite,IV,"aile beyanı (doğrudan bildirim)"
+2026-07-13,,transfuzyon,Eritrosit süspansiyonu (kırmızı kan),1,ünite,IV,"aile beyanı (doğrudan bildirim)"
