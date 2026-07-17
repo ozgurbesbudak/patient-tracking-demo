@@ -1,6 +1,6 @@
 # Serum Protein Elektroforezi (17.10.2025)
 
-- **Kaynak:** `gelen-pdf/kan/2025-10-17-kan.pdf` (e-Nabız, Hastane Hastanesi)
+- **Kaynak:** `gelen-pdf/kan/2025-10-17-kan.pdf` (e-Nabız, Hastane Hasta[gizli])
 
 > ⚠️ Yalnızca betimleme (CLAUDE.md Bölüm 0). Klinik yorum içermez.
 

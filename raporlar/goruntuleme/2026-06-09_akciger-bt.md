@@ -12,15 +12,15 @@ konsolidasyon Dr. X
 
 ## Tam Bulgular (ham metin)
 
-Hastanın Adı  MAB          Protokol      26509002
+Hastanın Adı  MAB          Protokol      [gizli]
 Soyadı                                     Numarası
 Cinsiyeti     Erkek                                      09/06/2026
               37439-7-Toraks, BT, Akciğer  Çekim Tarihi  09:56:40
 LOINC Kodu    parenkimi
-              [gizli]                   Erişim Numarası 26509002
+              [gizli]                   Erişim Numarası [gizli]
 Doğum Tarihi
                                            Klinik        157-İÇ
-                                                         HASTALIKLARI
+                                                         HASTA[gizli]
 TOMOGRAFİ : TEKNİK: İnceleme kontrast madde verilmeksizin yapılmıştır. RADYOLOJİK BULGULAR: KTO
 normal sınırlardadır. Trakea ve ana bronşlar açıktır. Mediastende en büyükleri prevasküler, sağ üst
 paratrakeal, bilateral alt paratrakeal ve subkarinal bölgelerde yer alan, kısa aksı 10 mm' yi aşmayan lenf

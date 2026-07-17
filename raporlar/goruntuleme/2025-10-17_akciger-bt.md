@@ -11,12 +11,12 @@ Bu raporda ayrı bir SONUÇ/kanaat bölümü bulunmuyor; tüm radyolojik bulgula
 
 ## Tam Bulgular (ham metin)
 
-Hastanın Adı  MAB          Protokol      25987388
+Hastanın Adı  MAB          Protokol      [gizli]
 Soyadı                                     Numarası
 Cinsiyeti     Erkek                                      17/10/2025
                                            Çekim Tarihi  12:08:10
 LOINC Kodu    37439-7-Toraks, BT, Akciğer
-Doğum Tarihi  parenkimi                    Erişim Numarası 25987388
+Doğum Tarihi  parenkimi                    Erişim Numarası [gizli]
               [gizli]
                                            Klinik        155-HEMATOLOJI
 TOMOGRAFİ : TEKNİK: İnceleme kontrast madde verilmeksizin yapılmıştır. RADYOLOJİK BULGULAR: KTO

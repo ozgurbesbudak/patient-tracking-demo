@@ -1,7 +1,7 @@
 # Kemik İliği — FISH Paneli + Karyotip (Sitogenetik)
 
 > Kaynak görseller: `gelen-pdf/kemik-iligi-testleri/test1..9.jpeg`
-> Kurum: Hastane — Laboratuvar, Tıbbi Biyoloji
+> Kurum: Hastane Hasta[gizli] — Merkez Lab[gizli], Tıbbi Biyoloji
 > ve Genetik Birimi. Moleküler Sitogenetik Birim Sorumlusu: Dr. X
 > **Betimleyicidir; raporların kendi sonucu aktarılmıştır. Klinik/prognostik yorum
 > İÇERMEZ — değerlendirme tedavi ekibine aittir (CLAUDE.md Bölüm 0).**

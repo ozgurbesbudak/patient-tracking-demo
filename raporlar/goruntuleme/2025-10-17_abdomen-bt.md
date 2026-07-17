@@ -1,7 +1,7 @@
 # Abdomen BT — 2025-10-17
 
 - **Kaynak:** `gelen-pdf/goruntuleme/2025-10-17-abdomen-bt.pdf`
-- **Klinik:** HASTALIKLARI
+- **Klinik:** HASTA[gizli]
 
 > ⚠️ Yalnızca kaynağın betimlenmesidir (CLAUDE.md Bölüm 0). Aşağıdaki SONUÇ radyologun ifadesidir; Claude Code yorumu EKLEMEZ. Değerlendirme tedavi ekibindedir.
 
@@ -11,15 +11,15 @@ Bu raporda ayrı bir SONUÇ/kanaat bölümü bulunmuyor; tüm radyolojik bulgula
 
 ## Tam Bulgular (ham metin)
 
-Hastanın Adı  MAB                    Protokol      25989056
+Hastanın Adı  MAB                    Protokol      [gizli]
 Soyadı                                               Numarası
 Cinsiyeti     Erkek                                                17/10/2025
               36267-3-Abdomen, BT, iv kontrastlı ve  Çekim Tarihi  23:48:38
 LOINC Kodu    kontrastsız
-              [gizli]                             Erişim        25989056
+              [gizli]                             Erişim        [gizli]
 Doğum Tarihi                                         Numarası
                                                                    157-İÇ
-                                                     Klinik        HASTALIKLARI
+                                                     Klinik        HASTA[gizli]
 TEKNİK: Çok kesitli bilgisayarlı tomografi cihazında, IV opak madde kullanılması sonrasında DUAL fazlı olarak
 gerçekleştirilmiştir. İNCELEME NOTU: Tetkik hastaya ait 08/09/2025 tarihli BT'si ile karşılaştırmalı olarak
 değerlendirilmiştir. RADYOLOJİK BULGULAR: ÜST ABDOMEN BT: Kesitlere giren toraks kesiminde Sol akciğer
