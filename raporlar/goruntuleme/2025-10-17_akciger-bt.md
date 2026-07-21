@@ -16,7 +16,7 @@ Soyadı                                     Numarası
 Cinsiyeti     Erkek                                      17/10/2025
                                            Çekim Tarihi  12:08:10
 LOINC Kodu    37439-7-Toraks, BT, Akciğer
-Doğum Tarihi  parenkimi                    Erişim Numarası [gizli]
+Doğum Tarihi  parenkimi                    Erişim Numarası 25987388
               [gizli]
                                            Klinik        155-HEMATOLOJI
 TOMOGRAFİ : TEKNİK: İnceleme kontrast madde verilmeksizin yapılmıştır. RADYOLOJİK BULGULAR: KTO

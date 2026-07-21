@@ -1,7 +1,7 @@
 # Akciğer BT (HRCT) — 2026-07-06
 
 - **Kaynak:** `gelen-pdf/goruntuleme/2026-07-06-akciger-bt.pdf`
-- **Kurum:** Hastane Hasta[gizli], Radyoloji (Teleradyoloji)
+- **Kurum:** Hastane, Radyoloji (Teleradyoloji)
 - **Çekim tarihi/saati:** 06/07/2026 20:32 · Protokol No: [gizli]
 - **Teknik:** Kontrastsız yüksek çözünürlüklü BT (HRCT).
 - **Karşılaştırma:** Hastanın **19.06.2026** tarihli HRCT tetkiki ile birlikte değerlendirilmiş.

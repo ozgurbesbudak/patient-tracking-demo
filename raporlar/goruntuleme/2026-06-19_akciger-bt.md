@@ -1,8 +1,8 @@
 # Akciğer BT (HRCT) — 2026-06-19
 
 - **Kaynak:** `gelen-pdf/goruntuleme/2026-06-16-akciger-bt.pdf` *(dosya adı 06-16, ancak PDF içindeki çekim tarihi 19/06/2026 15:05)*
-- **Kurum:** Hastane Hasta[gizli], Radyoloji
-- **Klinik:** 157-İç Hasta[gizli]
+- **Kurum:** Hastane, Radyoloji
+- **Klinik:** 157-İç Hastalıkları
 - **Karşılaştırma:** Hastanın 09.06.2026 tarihli HRCT tetkiki ile birlikte değerlendirilmiş.
 - **Radyologlar:** Dr. X, Dr. X
 
@@ -36,7 +36,7 @@
 
 ## Tam Bulgular (ham metin)
 
-Hastane HASTA[gizli] RADYOLOJİ ANABİLİM DALI. YÜKSEK ÇÖZÜNÜRLÜKLÜ BİLGİSAYARLI TOMOGRAFİ:
+Hastane RADYOLOJİ ANABİLİM DALI. YÜKSEK ÇÖZÜNÜRLÜKLÜ BİLGİSAYARLI TOMOGRAFİ:
 TEKNİK: İnceleme kontrast madde verilmeksizin yapılmıştır.
 İNCELEME NOTU: İnceleme hastaya ait 09.06.2026 tarihli HRCT tetkikiyle birlikte değerlendirilmiştir.
 RADYOLOJİK BULGULAR: KTO normal sınırlardadır. Trakea ve ana bronşlar açıktır. Mediastende en büyükleri prevasküler, sağ üst paratrakeal, bilateral alt paratrakeal ve subkarinal bölgelerde yer alan, kısa aksı 10 mm'yi aşmayan lenf nodları mevcuttur. Akciğer parankim penceresinden yapılan değerlendirmede her iki akciğer bronkovasküler dağılımı olağandır. Sağ akciğer orta lobta anteriorda hava bronkogramı içeren, plevra tabanlı konsolidasyon izlenmiş olup benzer şekilde sebat etmektedir. Takibi önerilir. Sağ akciğer üst lob apikal segmentteki lineer atelektazik değişiklikler benzerdir. Bilateral akciğerlerde plevral efüzyon saptanmamıştır. Kitlesel lezyon izlenmemiştir. İncelemeye dahil torakal kemik yapılarda dejeneratif değişiklikler mevcuttur. Abdomen düzeyinden geçen kesitlerde bulgular hastanın önceki inceleme ile benzerdir.

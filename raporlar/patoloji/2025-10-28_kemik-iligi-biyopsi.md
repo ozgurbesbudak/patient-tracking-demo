@@ -1,9 +1,9 @@
 # Patoloji — 2025-10-28 (kemik iliği)
 
 - **Kaynak:** `gelen-pdf/patoloji/2025-10-28-pataloji.pdf`
-- **Biyopsi No:** 2025 - 33222 - B
+- **Biyopsi No:** [gizli]
 - **Gönderilen doku:** kemik iliği
-- **Klinik öykü:** 2022 yılında btde dalak kitlesi splenomegali yaygın batın içi sıvı görülen hasta [gizli] lenf nodu bx ile dbbhl tanısı almış.
+- **Klinik öykü:** 2022 yılında btde dalak kitlesi splenomegali yaygın batın içi sıvı görülen hasta supraklaviküler lenf nodu bx ile dbbhl tanısı almış.
 
 > ⚠️ Kaynağın betimlenmesidir (CLAUDE.md Bölüm 0). Claude Code yorumu EKLEMEZ; aşağıdaki TANI/YORUM patoloğun ifadesidir.
 

@@ -1,7 +1,7 @@
 # Abdomen BT — 2025-10-17
 
 - **Kaynak:** `gelen-pdf/goruntuleme/2025-10-17-abdomen-bt.pdf`
-- **Klinik:** HASTA[gizli]
+- **Klinik:** HASTALIKLARI
 
 > ⚠️ Yalnızca kaynağın betimlenmesidir (CLAUDE.md Bölüm 0). Aşağıdaki SONUÇ radyologun ifadesidir; Claude Code yorumu EKLEMEZ. Değerlendirme tedavi ekibindedir.
 
@@ -19,7 +19,7 @@ LOINC Kodu    kontrastsız
               [gizli]                             Erişim        [gizli]
 Doğum Tarihi                                         Numarası
                                                                    157-İÇ
-                                                     Klinik        HASTA[gizli]
+                                                     Klinik        HASTALIKLARI
 TEKNİK: Çok kesitli bilgisayarlı tomografi cihazında, IV opak madde kullanılması sonrasında DUAL fazlı olarak
 gerçekleştirilmiştir. İNCELEME NOTU: Tetkik hastaya ait 08/09/2025 tarihli BT'si ile karşılaştırmalı olarak
 değerlendirilmiştir. RADYOLOJİK BULGULAR: ÜST ABDOMEN BT: Kesitlere giren toraks kesiminde Sol akciğer

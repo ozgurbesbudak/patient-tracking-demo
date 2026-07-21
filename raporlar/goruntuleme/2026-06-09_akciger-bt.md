@@ -17,10 +17,10 @@ Soyadı                                     Numarası
 Cinsiyeti     Erkek                                      09/06/2026
               37439-7-Toraks, BT, Akciğer  Çekim Tarihi  09:56:40
 LOINC Kodu    parenkimi
-              [gizli]                   Erişim Numarası [gizli]
+              [gizli]                   Erişim Numarası 26509002
 Doğum Tarihi
                                            Klinik        157-İÇ
-                                                         HASTA[gizli]
+                                                         HASTALIKLARI
 TOMOGRAFİ : TEKNİK: İnceleme kontrast madde verilmeksizin yapılmıştır. RADYOLOJİK BULGULAR: KTO
 normal sınırlardadır. Trakea ve ana bronşlar açıktır. Mediastende en büyükleri prevasküler, sağ üst
 paratrakeal, bilateral alt paratrakeal ve subkarinal bölgelerde yer alan, kısa aksı 10 mm' yi aşmayan lenf

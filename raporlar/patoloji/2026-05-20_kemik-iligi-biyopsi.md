@@ -1,7 +1,7 @@
 # Patoloji — 2026-05-20 (kemik iliği)
 
 - **Kaynak:** `gelen-pdf/patoloji/2026-05-20-pataloji.pdf`
-- **Biyopsi No:** 2026 - 14702 - B
+- **Biyopsi No:** [gizli]
 - **Gönderilen doku:** kemik iliği
 - **Klinik öykü:** NHL KONTROL BX
 
@@ -14,7 +14,7 @@ KEMİK İLİĞİ BİYOPSİSİ (MİKROSKOBİK BULGULARI VE
 ## YORUM (patolog)
 
 Biyopsi materyali kısıtlı değerlendirilebilmiş olup görece artmış orandaki CD34 ve CD117 pozitif immatur/prekürsör
-hücreler açısından klinik, lab[gizli], genetik ve aspirasyon yayma bulguları eşliğinde değerlendirilmesi ve gereği durumunda
+hücreler açısından klinik, laboratuvar, genetik ve aspirasyon yayma bulguları eşliğinde değerlendirilmesi ve gereği durumunda
 biyopsi tekrarı önerilir.
 
 ## Mikroskobik Bulgular

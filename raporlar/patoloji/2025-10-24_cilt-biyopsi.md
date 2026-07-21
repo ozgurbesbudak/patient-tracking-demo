@@ -1,7 +1,7 @@
 # Patoloji — 2025-10-24 (kalça)
 
 - **Kaynak:** `gelen-pdf/patoloji/2025-10-24-pataloji.pdf`
-- **Biyopsi No:** 2025 - 32953 - B
+- **Biyopsi No:** [gizli]
 - **Gönderilen doku:** kalça
 - **Klinik öykü:** purpurik ilaç döküntüsü makülopapüler ilaç döküntüsü
 
@@ -10,6 +10,6 @@
 ## TANI (patolog)
 
 SPONGİYOTİK DERMATİT, EOZİNOFİL LÖKOSİTLERİ DE İÇEREN LENFOSİTİK VASKÜLİT
-PATERNİ (İLAÇ REAKSİYONU KLİNİK TANISI İLE UYUMLU OLAB[gizli] BULGULAR), KALÇA
+PATERNİ (İLAÇ REAKSİYONU KLİNİK TANISI İLE UYUMLU OLABİLECEK BULGULAR), KALÇA
 DERİSİ, İNSİZYONEL BİYOPSİ
 

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-pano_app.py — Streamlit interaktif hasta [gizli] (SALT-OKUNUR görüntüleyici).
+pano_app.py — Streamlit interaktif hasta panosu (SALT-OKUNUR görüntüleyici).
 
-CSV/rapor dosya[gizli] OKUR ve filtrelenebilir, sik bir panoda gosterir. Hicbir
+CSV/rapor dosyalarini OKUR ve filtrelenebilir, sik bir panoda gosterir. Hicbir
 dosyaya YAZMAZ; duz dosyalar otorite kaynak olarak kalir (CLAUDE.md Bolum 4).
 Betimleyicidir; klinik yorum/hukum ICERMEZ (CLAUDE.md Bolum 0). Renkler
 dekoratiftir, normal/anormal hukmu tasimaz.
@@ -100,7 +100,7 @@ TERIM_SOZLUK = {
     "interlobüler septal": "akciğer bölmeciklerini ayıran ince duvarlar",
     "peribronkovasküler": "bronş ve damarların çevresi",
     "intersitisyum": "akciğerin destek (ara) dokusu",
-    "kto": "kalp-toraks oranı: kalbin göğüs genişliğine oranı (artışı kalp büyümesi/sıvı olab[gizli])",
+    "kto": "kalp-toraks oranı: kalbin göğüs genişliğine oranı (artışı kalp büyümesi/sıvı olabilir)",
     "mediasten": "iki akciğer arasındaki bölge (kalp, büyük damarlar, lenf bezleri)",
     "lenf nod": "lenf bezi (bağışıklık sisteminin süzgeç istasyonu)",
     "lenfadenopati": "büyümüş lenf bezi",
@@ -155,7 +155,7 @@ _TERIM_RE = re.compile(
 
 def terimleri_tooltiple(metin):
     """Rapor metnindeki terimleri, üstüne gelince açıklama gösteren <span>'lerle sarar.
-    `...` kod bloklarına (dosya [gizli]) dokunmaz."""
+    `...` kod bloklarına (dosya yolları) dokunmaz."""
     def wrap(m):
         t = m.group(0)
         tanim = TERIM_SOZLUK.get(t.lower())
@@ -212,7 +212,7 @@ CSS = """
 }
 .alert b { color:#fff; }
 
-/* KPI X[gizli] */
+/* KPI kartlari */
 .kpi { padding: 2px 2px 0 2px; }
 .kpi .lab { font-size:.72rem; text-transform:uppercase; letter-spacing:.6px; color:#8b90a3; font-weight:600; }
 .kpi .val { font-size:1.7rem; font-weight:800; color:#f1f3f8; line-height:1.1; margin-top:2px; }
@@ -416,7 +416,7 @@ def style_fig(fig, renk_ana=VARSAYILAN_RENK):
 # UI
 # ----------------------------------------------------------------------------
 def main():
-    st.set_page_config(page_title="Hasta [gizli] — M.A.B.", page_icon="🩺",
+    st.set_page_config(page_title="Hasta Panosu — M.A.B.", page_icon="🩺",
                        layout="wide", initial_sidebar_state="expanded")
     st.markdown(CSS, unsafe_allow_html=True)
 
@@ -436,7 +436,7 @@ def main():
     # ---- HERO ----
     st.markdown(f"""
     <div class="hero">
-      <h1>🩺 Hasta [gizli]</h1>
+      <h1>🩺 Hasta Panosu</h1>
       <div class="sub">MAB · AML tedavi takibi</div>
       <div class="chips">
         <span class="chip">📅 Açılış {bugun:%d.%m.%Y %H:%M}</span>
@@ -449,7 +449,7 @@ def main():
     """, unsafe_allow_html=True)
     st.markdown("""
     <div class="alert">🚑 <b>Acil belirti</b> (ateş >38°C, titreme, nefes darlığı, kanama,
-    bilinç bulanıklığı) → vakit kaybetmeden tedavi ekibine/hasta[gizli] Bu pano yalnızca
+    bilinç bulanıklığı) → vakit kaybetmeden tedavi ekibine/hastaneye. Bu pano yalnızca
     kayıtlı verinin <b>betimlemesidir</b>; renkler dekoratiftir, klinik yorum içermez.</div>
     """, unsafe_allow_html=True)
 
@@ -469,7 +469,7 @@ def main():
     d1, d2 = (aralik[0], aralik[1]) if isinstance(aralik, (list, tuple)) and len(aralik) == 2 else (dmin, dmax)
     st.sidebar.caption(f"Kan verisi aralığı:\n{dmin:%d.%m.%Y} – {dmax:%d.%m.%Y}")
     st.sidebar.divider()
-    st.sidebar.caption("Salt-okunur görüntüleyici · dosya[gizli] yazmaz.\nKaynak: `veri/*.csv`, `raporlar/`")
+    st.sidebar.caption("Salt-okunur görüntüleyici · dosyalara yazmaz.\nKaynak: `veri/*.csv`, `raporlar/`")
 
     def aralikta(df):
         if df.empty or "_dt" not in df.columns:
@@ -528,7 +528,7 @@ def main():
                     box.plotly_chart(sparkline(sub, slug), width="stretch",
                                      config={"displayModeBar": False}, key=f"sp_{slug}")
 
-        st.caption("↓ referans altı / ↑ referans üstü işaretleri yalnızca lab [gizli] "
+        st.caption("↓ referans altı / ↑ referans üstü işaretleri yalnızca lab raporundaki "
                    "referans aralığına göre **betimleyicidir** — iyi/kötü ya da acil hükmü "
                    "değildir. Acil durum belirtilerle tanımlanır (üstteki uyarı). "
                    "Değerlendirme tedavi ekibine aittir.")
@@ -669,7 +669,7 @@ def main():
                 fig.update_layout(title=baslik(slug, sub.iloc[-1]["birim"]))
                 ikili[i % 2].plotly_chart(fig, width="stretch", key=f"tr_{slug}")
 
-            st.caption("Yeşil bant + kesikli çizgiler = lab [gizli] aralığı (**bilgi amaçlı**, "
+            st.caption("Yeşil bant + kesikli çizgiler = lab referans aralığı (**bilgi amaçlı**, "
                        "normal/anormal hükmü değil). Mor/yeşil dikey gölge = Venetoclax/kemoterapi "
                        "dönemi. Turuncu çizgi = transfüzyon. Referans bandı y eksenini genişletirse "
                        "'Referans aralığı' anahtarını kapatıp veriye yakınlaşabilirsiniz.")

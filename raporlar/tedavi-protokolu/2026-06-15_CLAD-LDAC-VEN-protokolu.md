@@ -1,12 +1,12 @@
 # Kemoterapi Protokolü — CLAD + LDAC + VEN (28 günde bir)
 
-> Kaynak: `gelen-pdf/ilac-programi/ilac-programi-1.jpeg` (hastane protokol [gizli],
+> Kaynak: `gelen-pdf/ilac-programi/ilac-programi-1.jpeg` (hastane protokol formu,
 > el yazısı doz notlarıyla). Bu belge tedavi ekibinin **uyguladığı** planı
 > kaydeder; sistem doz/ilaç ÖNERMEZ, yalnızca ekibin kararını izler (bkz.
 > CLAUDE.md Bölüm 0 ve 5.2). Aşağıdaki tarih çıkarımları yaklaşıktır.
 
 ## Kurum ve hasta
-- **Kurum:** Hastane Uygulama ve Araştırma Hasta[gizli] —
+- **Kurum:** Hastane Uygulama ve Araştırma Hastanesi —
   Hematoloji ve Kök Hücre Nakil Ünitesi
 - **Hasta:** MAB
 - **Boy:** 175 cm · **Kilo:** 84 kg (form üstünde el yazısı güncel: ~81,1 kg)
@@ -15,7 +15,7 @@
 
 ## İlaçlar (formda yazıldığı gibi)
 
-| # | İlaç | Protokol [gizli] | Hesaplanan/uygulanan | Yol | Sıklık | Günler |
+| # | İlaç | Protokol dozu | Hesaplanan/uygulanan | Yol | Sıklık | Günler |
 |---|------|---------------|----------------------|-----|--------|--------|
 | 1 | **Cladribine (CLAD)** | 5 mg/m² | **10 mg** (5×2 m²) | IV | QD (günde 1) | **D1–5** |
 | 2 | **Cytarabine (LDAC, düşük doz)** | 20 mg | **2 × 20 mg** | SC (cilt altı) | BID (günde 2) | **D1–10** |
@@ -34,7 +34,7 @@
 ## Takvim çıkarımı (Kür 1)
 > Onaylanan kür başlangıcı (aile beyanı, 02.07): **D1 = 2026-06-15**
 > (`surec_olaylari.csv`). Venetoclax için aile "17. gün 02.07" dediğinden onun
-> D1'i ≈ **2026-06-16** olab[gizli] (kür D1'inden ~1 gün offset — belirsiz).
+> D1'i ≈ **2026-06-16** olabilir (kür D1'inden ~1 gün offset — belirsiz).
 
 | İlaç | Günler | Yaklaşık takvim |
 |------|--------|-----------------|

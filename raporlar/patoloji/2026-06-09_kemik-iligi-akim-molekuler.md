@@ -1,6 +1,6 @@
 # Kemik İliği — Akış Sitometri & Moleküler Analiz (09.06.2026)
 
-- **Kaynak:** `gelen-pdf/kan/2026-06-09-kan.pdf` (e-Nabız, Hastane Hasta[gizli])
+- **Kaynak:** `gelen-pdf/kan/2026-06-09-kan.pdf` (e-Nabız, Hastane Hastanesi)
 - **Tür:** AML tanı çalışması — kemik iliği akış sitometri immünofenotipleme +
   moleküler translokasyon paneli + kemik iliği aspirasyon/biyopsi.
 

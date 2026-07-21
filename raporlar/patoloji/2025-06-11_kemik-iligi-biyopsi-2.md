@@ -1,7 +1,7 @@
 # Patoloji — 2025-06-11 (kemik iliği)
 
 - **Kaynak:** `gelen-pdf/patoloji/2025-06-11-pataloji2.pdf`
-- **Biyopsi No:** 2025 - 17955 - B
+- **Biyopsi No:** [gizli]
 - **Gönderilen doku:** kemik iliği
 - **Klinik öykü:** diffüz büyük b hücreli lenfoma, nüks hastalık?
 
