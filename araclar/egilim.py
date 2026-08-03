@@ -95,6 +95,10 @@ def ozet_metin(a):
         ref_s = f"referans altı · {a['ref_disi_gun']} gün"
     elif a["ref_konum"] == "ust":
         ref_s = f"referans üstü · {a['ref_disi_gun']} gün"
+    elif a["ref_alt"] is None or a["ref_ust"] is None:
+        # Referans araligi kayitli degil -> "icinde" DEME. Aralik bilinmeden
+        # icinde/disinda hukmu verilemez; bu yanlis bir normal imasi olurdu.
+        ref_s = "referans aralığı kayıtlı değil"
     else:
         ref_s = "referans içinde"
     return yon_s, hiz_s, ref_s

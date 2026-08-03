@@ -45,7 +45,8 @@ ETIKET = {
     "kalsiyum": "Kalsiyum", "magnezyum": "Magnezyum", "fosfor": "Fosfor",
     "albumin": "Albümin", "total_protein": "Total Protein", "total_bilirubin": "Total Bilirubin",
     "ast": "AST", "alt": "ALT", "ggt": "GGT", "alp": "ALP", "rdw": "RDW", "mcv": "MCV",
-    "pct": "Prokalsitonin (PCT)", "ferritin": "Ferritin", "fibrinojen": "Fibrinojen",
+    "prokalsitonin": "Prokalsitonin", "trombositkrit": "Trombositkrit (PCT)",
+    "ferritin": "Ferritin", "fibrinojen": "Fibrinojen",
     "d_dimer": "D-Dimer", "egfr": "eGFR", "ure_bun": "Üre (BUN)",
 }
 # Dekoratif renk paleti (parametre -> cizgi rengi)
@@ -53,7 +54,8 @@ RENK = {
     "hemoglobin": "#ef4444", "trombosit": "#3b82f6", "wbc": "#22c55e",
     "notrofil": "#a855f7", "crp": "#ec4899", "potasyum": "#f59e0b",
     "kalsiyum": "#14b8a6", "magnezyum": "#8b5cf6", "ldh": "#06b6d4",
-    "pct": "#f97316", "ferritin": "#e11d48", "fibrinojen": "#0ea5e9",
+    "prokalsitonin": "#f97316", "trombositkrit": "#94a3b8",
+    "ferritin": "#e11d48", "fibrinojen": "#0ea5e9",
     "d_dimer": "#a3e635", "albumin": "#f472b6",
 }
 VARSAYILAN_RENK = "#7c3aed"
@@ -69,7 +71,8 @@ ACIKLAMA = {
     "hemoglobin": "oksijen taşıyan kan proteini",
     "hematokrit": "kanın hücre oranı",
     "crp": "genel iltihap/enfeksiyon göstergesi",
-    "pct": "prokalsitonin; bakteriyel enfeksiyona özgül",
+    "prokalsitonin": "bakteriyel enfeksiyona özgül belirteç",
+    "trombositkrit": "kanın trombosit kapladığı hacim oranı (hemogram)",
     "ferritin": "demir deposu + iltihap göstergesi",
     "fibrinojen": "pıhtılaşma proteini; iltihapta artar",
     "d_dimer": "pıhtı yıkım ürünü; pıhtı/iltihap göstergesi",
@@ -173,7 +176,7 @@ def terimleri_tooltiple(metin):
 # Hazir grafik panelleri (Kan Değerleri sekmesi) — gruplu, duzenli gorunum
 PANELLER = {
     "🔬 AML kilit panel": ["wbc", "notrofil", "trombosit", "hemoglobin"],
-    "🦠 Enfeksiyon (CRP/PCT)": ["crp", "pct", "notrofil"],
+    "🦠 Enfeksiyon (CRP/PCT)": ["crp", "prokalsitonin", "notrofil"],
     "🔥 İnflamasyon": ["ferritin", "fibrinojen", "d_dimer", "albumin"],
     "⚡ Elektrolit": ["potasyum", "sodyum", "kalsiyum", "magnezyum", "fosfor"],
     "🩺 Böbrek fonksiyonu": ["egfr", "kreatinin", "ure_bun", "urik_asit"],
@@ -534,7 +537,7 @@ def main():
                    "Değerlendirme tedavi ekibine aittir.")
 
         st.markdown("### 📈 Eğilim / Değişim")
-        egilim_slug = ["crp", "pct", "notrofil", "trombosit", "hemoglobin", "potasyum",
+        egilim_slug = ["crp", "prokalsitonin", "notrofil", "trombosit", "hemoglobin", "potasyum",
                        "kalsiyum", "magnezyum", "kreatinin", "egfr", "ure_bun"]
         satir = []
         for slug in egilim_slug:
